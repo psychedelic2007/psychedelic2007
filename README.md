@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/satyam_san20" target="blank"><img src="https://img.shields.io/twitter/follow/satyam_san20?logo=twitter&style=for-the-badge" alt="satyam_san20" /></a> </p>
 
-- 🔭 I’m currently working on **EVOLVE**
+- 🔭 I’m currently working on **Relation between Sleep and Neurodegenrative Disorders**
 
-- 🌱 I’m currently learning **Matlab, Circadian Neuroscience**
+- 🌱 I’m currently learning **Circadian Neuroscience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/psychedelic2007](https://github.com/psychedelic2007)
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, Molecular Docking, Molecular Dynamic Simulations, Nanoparticles, Mathematical Modelling, Numerical Simulations**
 
 - 📫 How to reach me **satyam85cool@gmail.com**
 
