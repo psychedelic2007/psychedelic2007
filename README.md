@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/satyam_san20" target="blank"><img src="https://img.shields.io/twitter/follow/satyam_san20?logo=twitter&style=for-the-badge" alt="satyam_san20" /></a> </p>
 
-- 🔭 I’m currently working on **Relation between Sleep and Neurodegenrative Disorders**
+- 🔭 I’m currently working on **Relation between Sleep and Neurodegenerative Disorders**
 
 - 🌱 I’m currently learning **Circadian Neuroscience**
 
