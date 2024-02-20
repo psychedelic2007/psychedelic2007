@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **satyam85cool@gmail.com**
 
-- 📄 Know about my experiences [https://psychedelic2007.github.io/portfolio](https://psychedelic2007.github.io)
+- 📄 Know about my experiences [https://psychedelic2007.github.io](https://psychedelic2007.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
