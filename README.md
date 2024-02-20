@@ -24,7 +24,7 @@
 <a href="https://twitter.com/satyam_san20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyam_san20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyam-sangeet-a8a604119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam sangeet" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCxbkRzZLmMiBTOnqUu7BjaA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satyamsangeet9163" height="30" width="40" /></a>
-<a href="https://psychedelic2007.github.io/portfolio/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/418889/globe-office-web.svg" alt="satyam_portfolio" height="30" width="40" /></a>
+<a href="https://psychedelic2007.github.io" target="_blank"><img align="center" src="https://www.svgrepo.com/show/418889/globe-office-web.svg" alt="satyam_portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
