@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Relation between Sleep and Neurodegenerative Disorders**
 
-- 🌱 I’m currently learning **Circadian Neuroscience**
-
 - 👨‍💻 All of my projects are available at [https://github.com/psychedelic2007](https://github.com/psychedelic2007)
 
 - 💬 Ask me about **Python, Machine Learning, Molecular Docking, Molecular Dynamic Simulations, Nanoparticles, Mathematical Modelling, Numerical Simulations**
